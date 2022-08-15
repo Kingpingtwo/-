@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+}
+.a {
+  width: 275px;
+  height: 193px;
+}
+.b {
+  padding: 30px 50px;
+  border: 1px solid white;
+  padding-bottom: 340px;
+}
+
+.c {
+  color: black;
+  font-size: 50px;
+  background-color: orangered;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  text-decoration: none;
+  border-radius: 15px;
+  margin-bottom: 30px;
+  margin-right: 10px;
+}
+.c:hover {
+  background-color: black;
+  color: orangered;
+}
+.vv {
+  color: white;
+  margin-bottom: 20px;
+}
